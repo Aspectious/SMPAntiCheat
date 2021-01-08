@@ -1,0 +1,9 @@
+name: SMPAntiCheat
+version: 1.5.4
+author: Aspect
+main: devs.IAN.smpantic.main
+
+//This plugin is under the MIT liscense.
+commands:
+  anticheatver:
+  anticheatdebug:
